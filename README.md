@@ -6,7 +6,7 @@ Installing and Configuring SIEM & XDR Wazuh
 
 ## Objective
 
-Today I am going to install the open-source SIEM Wazuh. Wazuh Manager will be deployed on my Ubuntu machine and I will deploy my Kali Linux machine as an agent. 
+Today I am going to install the open-source SIEM & XDR Wazuh. Wazuh Manager will be deployed on my Ubuntu machine and I will deploy my Kali Linux machine as an agent. 
 At the end I will run a Configuration Assesment and harden my system by adding and modifying rules. 
 
 
