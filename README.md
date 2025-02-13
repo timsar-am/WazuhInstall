@@ -2,7 +2,7 @@
 
 # PROJECT NAME
 
-Installing and Configuring Wazuh
+Installing and Configuring SIEM & XDR Wazuh
 
 ## Objective
 
