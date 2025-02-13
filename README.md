@@ -12,8 +12,7 @@ At the end I will run a Configuration Assesment and harden my system by adding a
 
 ### Tools Used
 
--Wazuh
--CLI
+-Wazuh, Bash
 
 ## Steps
 
